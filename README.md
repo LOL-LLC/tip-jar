@@ -4,4 +4,4 @@ Liberators of Libra LLC is a small software development company owned by Lucas G
 
 Principal engineering for 0L by LOL has been an unfunded volunteer effort. We have contributed an estimated 2,850 man-hours to 0L since June 2019. LOL is excited to continue providing engineering contributions to 0L.
 
-Please consider donating to the LOL tip jar at address: XYZ
+Please consider donating to the LOL tip jar at address: 2B0E8325DEA5BE93D856CFDE2D0CBA12
