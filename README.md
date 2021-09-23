@@ -4,4 +4,4 @@ Core engineering on 0L has been an unfunded volunteer effort. As of Sept 24th 20
 
 Please consider donating to that developer's tip jar at address: 2B0E8325DEA5BE93D856CFDE2D0CBA12
 
-This address is marked as a “CommunityWallet” on chain. It will only disburse funds after polling the community. Funds will only be transferred to an 0L SlowWallet, which releases funds over time. Allow 2/3 of validators (by voting power) to vote to reject our transactions.
+This address is marked as a “CommunityWallet” on chain. Funds will only be transferred to an 0L SlowWallet, which releases funds over time. Two-thirds of validators (by voting power) can vote to reject the outbound transactions.
