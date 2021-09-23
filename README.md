@@ -1,4 +1,4 @@
-# CORE DEV TIP JAR
+# LEAD DEV TIP JAR
 
 Core engineering on 0L has been an unfunded volunteer effort. As of Sept 24th 2021, github user `0o-de-lally` has contributed an estimated 5,060 man-hours to 0L since June 2019. This effort was not compensated in any form.
 
