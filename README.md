@@ -11,9 +11,9 @@ If however you would prefer to donate stable coins, thank you so much for sendin
 `<Annoying disclaimers>`
 
 
-Sending anything to those wallets is a donation is voluntary and there should be no mistake: there is no service, coin, or privilege that comes from sending it.
+Sending anything to those wallets is a donation and as such is voluntary. There should be no mistake: there is no service, coin, or privilege that comes from sending funds there.
 
-Unfortunately that address wont be able to accept donations from any countries sanctioned by the USA. It's a wonderful sentiment, but please don't send since it may do more harm than good.
+Unfortunately those addresses wont be able to accept donations from any countries sanctioned by the USA. It's a wonderful sentiment, but please don't send since it may do more harm than good.
 
 `</Annoying disclaimers>`
 
