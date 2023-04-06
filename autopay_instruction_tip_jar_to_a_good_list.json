@@ -1,0 +1,11 @@
+{
+  "autopay_instructions": [
+    {
+      "note": "Tip Jar sends 100% to A Good List",
+      "destination": "BCA50D10041FA111D1B44181A264A599",
+      "type_of": "PercentOfBalance",
+      "value": 100.00,
+      "end_epoch": 513
+    }
+  ]
+}
