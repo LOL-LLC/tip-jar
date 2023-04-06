@@ -8,3 +8,8 @@ This address is marked as a “CommunityWallet” on chain. Funds from Tip Jar c
 
 # Other ways of contributing
 If you are looking to fund short term needs, consider donating stable coins directly to `0o-de-lally`, see here: https://github.com/0o-de-lally/proof-of-work#short-term-help-pay-my-bills
+
+# April 6 2023 Update
+
+The Tip Jar funds are to be disbursed to the A Good List, account on 0L on April 15th. The transaction instruction [is here.](./autopay_instruction_tip_jar_to_a_good_list.json)
+A preliminary test transaction was done here: https://0lexplorer.io/block/104757900
